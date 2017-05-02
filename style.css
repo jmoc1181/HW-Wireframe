@@ -50,7 +50,7 @@ aside{
 	width: 44%;
 	height: 320px;
 	text-align: center;
-	margin: 30px 0px 0 1px ;
+	margin: 30px 0px 0 1% ;
 	background-color: #ebebeb;
 	padding-top: 30px
 
@@ -94,7 +94,7 @@ aside{
 
 footer {
     clear: both;
-    position: absolute;
+    position: fixed;
 	background-color: #ebebeb;
 	height: 100px;
 	text-align: center;
